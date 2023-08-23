@@ -1,4 +1,4 @@
-﻿// Использование Enumerable.Contains() метод (System.Linq)
+﻿// Использование List.IndexOf() метод
 
 namespace ListTypedCollection
 {

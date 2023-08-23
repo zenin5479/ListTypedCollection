@@ -28,7 +28,7 @@ namespace ListTypedCollection
             }
             else
             {
-                Console.WriteLine("Элемент, не найденный в данном списке");
+                Console.WriteLine("Элемент, не найден в данном списке");
             }
         }
     }

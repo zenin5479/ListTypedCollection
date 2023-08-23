@@ -1,4 +1,6 @@
-﻿namespace ListTypedCollection
+﻿// 1. Использование Enumerable.Contains() метод (System.Linq)
+
+namespace ListTypedCollection
 {
     public static class Extensions
     {

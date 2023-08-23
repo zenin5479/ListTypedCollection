@@ -1,4 +1,4 @@
-﻿// 1. Использование Enumerable.Contains() метод (System.Linq)
+﻿// Использование Enumerable.Contains() метод (System.Linq)
 
 namespace ListTypedCollection
 {
